@@ -1,4 +1,4 @@
 local tian = Instance.new("Message",workspace)
 tian.Text = "花20元购买脚本" 
-wait(3) 
+wait(999) 
 tian:Destroy()
